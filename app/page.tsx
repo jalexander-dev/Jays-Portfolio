@@ -70,7 +70,7 @@ export default function Home() {
               <div className="bg-slate-800/50 rounded-lg border border-slate-700 overflow-hidden hover:border-orange-500 transition-colors">
                 <div className="p-4 flex items-center">
                   <Bitcoin className="w-8 h-8 text-orange-500 mr-3" />
-                  <h3 className="text-xl font-bold">BitJay's Bitcoin Tracker</h3>
+                  <h3 className="text-xl font-bold">BitJay&apos;s Bitcoin Tracker</h3>
                 </div>
                 <div className="relative h-64 bg-slate-900">
                   <Image 
